@@ -1,0 +1,2 @@
+# faq
+Vanilla JS FAQ
